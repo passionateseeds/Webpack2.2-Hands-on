@@ -1,0 +1,22 @@
+{
+  "name": "webpack2.2-hands-on",
+  "version": "1.0.0",
+  "description": "This is a part of my webpack learning journey, we wrote this documents to help myself re-formulate what I have learnt, clarify my thinking.\r This hands-on is step-by-steps configure webpack as well as detail of what problems we are trying to solve.\r My advise is stick with this hands-on, doing by yourself, look at [the webpack official docs][twod]  for clarification.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/passionateseeds/Webpack2.2-Hands-on.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/passionateseeds/Webpack2.2-Hands-on/issues"
+  },
+  "homepage": "https://github.com/passionateseeds/Webpack2.2-Hands-on#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
